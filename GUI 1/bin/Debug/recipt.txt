@@ -1,0 +1,3 @@
+apple 2 38
+Rice 2 106
+chipsy 1 17

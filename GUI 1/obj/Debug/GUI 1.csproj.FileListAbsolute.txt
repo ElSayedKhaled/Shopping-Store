@@ -1,0 +1,19 @@
+E:\F   C    I     S\visual_studio_projects\GUI 1\GUI 1\bin\Debug\GUI 1.exe.config
+E:\F   C    I     S\visual_studio_projects\GUI 1\GUI 1\bin\Debug\GUI 1.exe
+E:\F   C    I     S\visual_studio_projects\GUI 1\GUI 1\bin\Debug\GUI 1.pdb
+E:\F   C    I     S\visual_studio_projects\GUI 1\GUI 1\obj\Debug\GUI_1.Form1.resources
+E:\F   C    I     S\visual_studio_projects\GUI 1\GUI 1\obj\Debug\GUI_1.Properties.Resources.resources
+E:\F   C    I     S\visual_studio_projects\GUI 1\GUI 1\obj\Debug\GUI 1.csproj.GenerateResource.Cache
+E:\F   C    I     S\visual_studio_projects\GUI 1\GUI 1\obj\Debug\GUI 1.exe
+E:\F   C    I     S\visual_studio_projects\GUI 1\GUI 1\obj\Debug\GUI 1.pdb
+E:\F   C    I     S\visual_studio_projects\GUI 1\GUI 1\obj\Debug\GUI_1.check_admin.resources
+E:\F   C    I     S\visual_studio_projects\GUI 1\GUI 1\obj\Debug\GUI_1.ADD.resources
+E:\F   C    I     S\visual_studio_projects\GUI 1\GUI 1\obj\Debug\GUI_1.Admin.resources
+E:\F   C    I     S\visual_studio_projects\GUI 1\GUI 1\obj\Debug\GUI_1.Delete.resources
+E:\F   C    I     S\visual_studio_projects\GUI 1\GUI 1\obj\Debug\GUI_1.registration.resources
+E:\F   C    I     S\visual_studio_projects\GUI 1\GUI 1\obj\Debug\GUI_1.UPdate.resources
+E:\F   C    I     S\visual_studio_projects\GUI 1\GUI 1\obj\Debug\GUI_1.Search.resources
+E:\F   C    I     S\visual_studio_projects\GUI 1\GUI 1\obj\Debug\GUI_1.User.resources
+E:\F   C    I     S\visual_studio_projects\GUI 1\GUI 1\obj\Debug\GUI_1.Orders.resources
+E:\F   C    I     S\visual_studio_projects\GUI 1\GUI 1\obj\Debug\GUI_1.CheckOrder.resources
+E:\F   C    I     S\visual_studio_projects\GUI 1\GUI 1\obj\Debug\GUI_1.Recipt.resources
